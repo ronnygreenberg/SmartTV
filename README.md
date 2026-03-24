@@ -22,7 +22,7 @@ Keep your browser bookmarks updated in real-time using the **[Floccus extension]
 
 ---
 
-### 🛠 How to Contribute
+### How to Contribute
 * **Via Floccus:** Simply add a high-quality link to your synced folder, and it will push to the repo.
 * **Via Pull Request:** Feel free to manually edit the list and submit a PR with your favorite "anti-brainrot" channels or sites.
 
