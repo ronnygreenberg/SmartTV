@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :21: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://abema.tv/video/genre/ranking" id="1">
+  <title>ランキング | 無料動画・見逃し配信を見るなら | ABEMA</title>
+</bookmark>
+<bookmark href="https://web.utako.moe/" id="2">
+  <title>JapanTV - Free Japanese Live Channels</title>
+</bookmark>
+<bookmark href="https://jfc.org.il/" id="3">
+  <title>ארכיון הסרטים הישראלי – סינמטק ירושלים</title>
+</bookmark>
+<bookmark href="https://seriesonline.sx/tv/watch-planet-earth-free-38933" id="4">
+  <title>Watch HD Planet Earth full Full Movies Free SeriesOnline</title>
+</bookmark>
+<bookmark href="https://seriesonline.sx/genre/biography" id="5">
+  <title>SeriesOnline - Watch best Biography movies and series HD</title>
+</bookmark>
+<bookmark href="https://famelack.com/" id="6">
+  <title>Watch Free Live World TV</title>
+</bookmark>
+<bookmark href="https://famelack.com/tv/uk/A5X8ark1iIaicP" id="7">
+  <title>BBC Eearth</title>
+</bookmark>
+<bookmark href="https://famelack.com/tv/uk/Hs2eyjSSpBwbJV" id="8">
+  <title>Curiosity Now</title>
+</bookmark>
+<bookmark href="https://famelack.com/tv/uk/sXCWXmslpxdRqM" id="9">
+  <title>Faith World TV</title>
+</bookmark>
+<bookmark href="https://famelack.com/tv/uk/CRZZ04ZKgBbKmT" id="10">
+  <title>History Hunters</title>
+</bookmark>
+<bookmark href="https://famelack.com/tv/uk/e8nAySYBqJpeIt" id="11">
+  <title>Latest TV - classic movies</title>
+</bookmark>
+<folder id="12">
+  <title>Anime (learning Japanese)</title>
+  <bookmark href="https://kissanime.cfd/" id="16">
+    <title>kissanime - Watch anime online in high quality (official)</title>
+  </bookmark>
+</folder>
+<folder id="13">
+  <title>Music</title>
+  <bookmark href="https://radio.garden/visit/fagaras/7puz9MBV" id="17">
+    <title>Radio Garden – Făgăraș</title>
+  </bookmark>
+  <bookmark href="https://open.spotify.com/playlist/3bH95pahCp2XuCFfTdakP0?pi=e-cUHNJr8xRl-I&amp;pt_success=1&amp;nd=1&amp;dlsi=af9bf334ca9a49c9" id="18">
+    <title>Bachata playlist</title>
+  </bookmark>
+  <bookmark href="https://famelack.com/tv/uk/MG5xhJnyQvgB5s" id="19">
+    <title>Totalmusic 2000</title>
+  </bookmark>
+  <bookmark href="https://open.spotify.com/playlist/4OlhEBepIko66jiYwfEecO?pi=ZKOg6nBpT7-lG" id="20">
+    <title>סדנת מקור ינואר 2026 - playlist by Daniel Cannon | Spotify</title>
+  </bookmark>
+</folder>
+<bookmark href="https://famelack.com/tv/uk/pApkFb67wcPTJl" id="14">
+  <title>Ну, погоди!</title>
+</bookmark>
+<bookmark href="https://famelack.com/tv/uk/cfBOOiTtczD84z" id="15">
+  <title>Free Live TV &amp; Online Radio Worldwide | Famelack</title>
+</bookmark>
+<bookmark href="https://israeltv.online/tv/ch66" id="21">
+  <title>ערוץ הקבלה 66</title>
+</bookmark>
+</xbel>
